@@ -28,7 +28,7 @@ Versions numbers are based on our system and may not need to be exact matches.
 
 
 ### Balanced Datasets
-`code_balanced` contains code for MNIST and Gaussian data experiments. See `code_balanced/README_mnist.md` and `code_balanced/README_gaussians.md` for instructions on how to run the experiments.
+`code_balanced` contains code for MNIST and Gaussian data experiments. See `code_balanced/README.md` for instructions on how to run the experiments.
 
 
 
